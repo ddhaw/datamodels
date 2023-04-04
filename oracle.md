@@ -1,0 +1,1 @@
+The official website of Oracle is https://www.oracle.com. Oracle is an open source program and is free to use by anyone. Oracle is a Relational database model. Oracle offers various hosting models, including on-premises, cloud-based, and hybrid cloud solutions. Java can access Oracle through Java Database Connectivity APIs.

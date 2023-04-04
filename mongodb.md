@@ -1,0 +1,1 @@
+The official website of MongoDB is https://www.mongodb.com. MongoDB is a noSQL database that is open source. Its a document database model, which does not fit into the three categories of Relational, Network, and Hierarchical database model. MongoDB is hosted via cloud-hosting. MongoDB connects to Java by using MongoDB Client and having Java set up on the user's machine.

@@ -1,0 +1,1 @@
+Neo4j's official website at https://neo4j.com/. Neo4j has both and open-source and a commercial version. Neo4j is a Network Data Model. Neo4j offers various hosting models, including embedded, client/server, and cloud-based solutions. Neo4j can be accessed by Java and Python through their respective drivers and libraries, which enable seamless integration with the database.
